@@ -64,7 +64,7 @@ router.delete('/:id', async (req, res) => {
       id: req.params.id,
     },
   })
-if (!catergory) {
+if (!category) {
   res.status(404).json({message: 'Nothing here'});
   return;
 }
