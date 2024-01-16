@@ -1,6 +1,9 @@
 # Product eCommerce Solution
 
-Special thanks to the graders who were very specific in their critiques to help me identify where I was going wrong. Special thanks to Sam Cordova and Justin Moore who helped me get my new machine loaded with the right programs to get this thing running after my last one would do nothing but crash. 
+Special thanks to the graders who were very specific in their critiques to help me identify where I was going wrong. 
+
+And to my Tutors:
+Special thanks to Sam Cordova and Justin Moore who helped me get my new machine loaded with the right programs to get this thing running after my last one would do nothing but crash. 
 
 I want to give a very special thanks to Nick Rhodes who is my success manager, who is gracious enough to allow me more time after the hardships I've had to deal with during the time of the course. I wouldn't have been able to get this far without any of you. It is really appreciated. 
 
