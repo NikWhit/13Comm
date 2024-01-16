@@ -8,7 +8,8 @@ Special thanks to Sam Cordova and Justin Moore who helped me get my new machine 
 I want to give a very special thanks to Nick Rhodes who is my success manager, who is gracious enough to allow me more time after the hardships I've had to deal with during the time of the course. I wouldn't have been able to get this far without any of you. It is really appreciated. 
 
 ## Acknowledgement of Practicality 
-2023 was a difficult year. Economic situations left me looking for more work multiple times and I want to say that the knowledge that is acquired not only in this course, but in particular through this assignment, are a skill that is in high demand. The positions that pay adequately have requirements of knowledge of SQL and similar funtions. There have been a number of projects that I would've liked to have worked on, but I was underqualified without more experience that I'm getting through this course. 
+2023 was a difficult year. Economic situations left me looking for more work multiple times and I want to say that the knowledge that is acquired not only in this course, but in particular through THIS assignment, are skills that are in high demand. 
+The positions that pay adequately have requirements of knowledge of SQL and similar funtions. There have been a number of professional projects that I would've liked to have worked on in my career, but I was underqualified without more experience that I'm getting through this course. 
 So, thank you.
 
 ## Description- 
@@ -40,6 +41,7 @@ use npm run start
 https://github.com/coding-boot-camp/fantastic-umbrella
 I also utilized code found in the sections of the coursework from UofU/edX bootcamp
 I was assisted to download homebrew, mysql, and a few other funtions by Sam Cordova from the Tutor's office. 
+Sam Cordova helped me with this assignment.
 
 
 
